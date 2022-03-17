@@ -49,7 +49,7 @@ const CollageWomen = (props) => (
 
     <View style={styles.content}>
       <Text style={styles.description}>
-        Save time. Look great. The personal styling service customized to your fit, lifestyle & spending preferences.
+          Originally, the iKONIK Fortnite skin was released as a promotional cosmetic item available only to those who purchased the Samsung Galaxy S10, S10+, or S10e mobile devices. Luckily, Eneba store offers you the chance to buy Fortnite iKONIK skin Epic Games key separately and redeem the code on the PC platform! It’s a great way to both save and expand your in-game Locker with one of the most recognizable Fortnite skins out there!
       </Text>
 
       <Button
