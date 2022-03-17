@@ -27,5 +27,8 @@
     "@babel/core": "^7.17.7",
     "@babel/node": "^7.16.8",
     "concurrently": "^4.1.0"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.15"
   }
 }

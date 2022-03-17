@@ -44,7 +44,7 @@ const CollageWomen = (props) => (
     </View>
 
     <View style={styles.titleContainer}>
-      <Text style={styles.title}>MONTHLY CRATES FOR WOMEN</Text>
+      <Text style={styles.title}>Fortnite - iKONIK Skin key</Text>
     </View>
 
     <View style={styles.content}>
